@@ -26,6 +26,9 @@ alishadi26@github ~ $ ls ./projects
 
 | Project | Stack | What it is |
 |---|---|---|
+| [🛡️ cybersecurity-labs](https://github.com/Alishadi26/cybersecurity-labs) | Python | From-scratch pcap/pcapng analyzer that catches cleartext passwords, plus a port scanner, file integrity monitor, password auditor and 5 Kali/Wireshark labs |
+| [🏆 ecpc-training](https://github.com/Alishadi26/ecpc-training) | C++ | My ICPC team notebook: 25+ algorithms, each tested against brute force with sanitizers on |
+| [☕ java-oop](https://github.com/Alishadi26/java-oop) | Java | 5 OOP projects (bank system, library management, shapes…) with UML and 48 test checks |
 | [🐍 Terminal Snake](https://github.com/Alishadi26/Alis-c-projects/tree/main/snake-game) | C++ | Real-time Snake game in the terminal, with raw input and ANSI colors |
 | [🤖 Gemini Chatbot](https://github.com/Alishadi26/Alis-Python-Projects/tree/main/gemini-chatbot) | Python | CLI chatbot with conversation memory on Google's Gemini API |
 | [🌐 Personal Website](https://github.com/Alishadi26/Web-playground) | HTML · CSS | Hand-written multi-page site, no frameworks |
